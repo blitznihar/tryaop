@@ -20,8 +20,8 @@
     * [x] AfterThrowing
     * [x] After
     * [x] Around
-* [] Custom AOP
-* [] target AOP
+* [ ] Custom AOP
+* [ ] target AOP
 
 
 #### Spring Data
@@ -33,8 +33,8 @@
 * [x] JPA
 * [x] MongoRepository
 * [x] Pagable/sortable
-* [] @Query
-* [] Transaction
+* [ ] @Query
+* [ ] Transaction
 
 
 ##### DB Used
@@ -45,29 +45,29 @@
 * [x] @Component, @Repository, @Controller
 * [x] Scope Types: Singleton/prototype
 * [x] @Autowired
-* [] @Configuration
+* [ ] @Configuration
 
 #### Spring MVC REST
 * [x] Rest API - Get, Post
-* [] *
+* [ ] *
 
 #### Spring Boot
 * [x] Autoconfiguration
 * [x] Starter Projects
 * [x] Actuator
 * [x] Spring docs/Spring fox - Swagger Documnentation
-* [] Application config
-* [] Logging
-* [] *
-* [] EnableAutoConfiguration
+* [ ] Application config
+* [ ] Logging
+* [ ] *
+* [ ] EnableAutoConfiguration
 
 
 #### Spring Test
-* [] Basics
-* [] Mockito
-* [] *
+* [ ] Basics
+* [ ] Mockito
+* [ ] *
 
 #### Spring Security
-* [] *
+* [ ] *
 
 
